@@ -1,4 +1,4 @@
-```
+
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
@@ -17,5 +17,3 @@
 ### Gustavo Meroni
 
 ### Linkedin: https://www.linkedin.com/in/gustavo-meroni-6593a126a/
-
-```
