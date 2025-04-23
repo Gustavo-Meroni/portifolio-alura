@@ -1,6 +1,6 @@
 # Portfólio - Joana Santos
 
-Este projeto é uma página de portfólio fictícia desenvolvida como exercício prático de HTML e CSS com base no curso da Alura. Ele apresenta informações profissionais de uma desenvolvedora Front-End, links para redes sociais e uma seção "Sobre mim".
+Este projeto é uma página de portfólio fictícia desenvolvida como exercício prático de HTML e CSS com base no curso da Alura. Ele apresenta informações profissionais de uma desenvolvedora Front-End, links para as redes sociais e uma seção "Sobre mim".
 
 ## 🖥️ Tecnologias Utilizadas
 
